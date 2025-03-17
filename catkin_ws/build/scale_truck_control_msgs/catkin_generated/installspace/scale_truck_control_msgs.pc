@@ -1,0 +1,8 @@
+prefix=/home/krg/catkin_ws/install
+
+Name: scale_truck_control_msgs
+Description: Description of scale_truck_control_msgs
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_generation message_runtime std_msgs

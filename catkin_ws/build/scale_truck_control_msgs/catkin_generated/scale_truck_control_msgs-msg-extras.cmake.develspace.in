@@ -1,0 +1,2 @@
+set(scale_truck_control_msgs_MESSAGE_FILES "/home/krg/catkin_ws/src/scale_truck_control_msgs/msg/lane_coef.msg;/home/krg/catkin_ws/src/scale_truck_control_msgs/msg/lane.msg;/home/krg/catkin_ws/src/scale_truck_control_msgs/msg/xav2lrc.msg;/home/krg/catkin_ws/src/scale_truck_control_msgs/msg/lrc2xav.msg;/home/krg/catkin_ws/src/scale_truck_control_msgs/msg/lrc2ocr.msg;/home/krg/catkin_ws/src/scale_truck_control_msgs/msg/ocr2lrc.msg")
+set(scale_truck_control_msgs_SERVICE_FILES "")

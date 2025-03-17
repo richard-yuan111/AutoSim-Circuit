@@ -1,0 +1,8 @@
+prefix=/home/krg/catkin_ws/install
+
+Name: scale_truck_control
+Description: Description of scale_truck_control
+Version: 0.1.0
+Cflags: -I${prefix}/include -I/usr/include
+Libs: -L${prefix}/lib -lscale_truck_control /usr/lib/aarch64-linux-gnu/libboost_python38.so.1.71.0 /usr/lib/aarch64-linux-gnu/libboost_thread.so.1.71.0
+Requires: roscpp rospy std_msgs geometry_msgs obstacle_detector

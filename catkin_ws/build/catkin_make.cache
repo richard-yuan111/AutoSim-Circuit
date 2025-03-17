@@ -1,0 +1,2 @@
+carla_msgs:common_msgs/actionlib_msgs:common_msgs/common_msgs:common_msgs/diagnostic_msgs:common_msgs/geometry_msgs:common_msgs/nav_msgs:common_msgs/sensor_msgs:common_msgs/shape_msgs:common_msgs/stereo_msgs:common_msgs/trajectory_msgs:common_msgs/visualization_msgs:laser_filters:obstacle_detector:rplidar_ros:scale_truck_control:usb_cam:vision_opencv/cv_bridge:vision_opencv/image_geometry:vision_opencv/opencv_tests:vision_opencv/vision_opencv
+-DCATKIN_DEVEL_PREFIX=/home/krg/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/krg/catkin_ws/install -G Unix Makefiles
